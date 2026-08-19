@@ -1,0 +1,6 @@
+=== PHP SYNTAX CHECK ===
+OK: 61
+ERROS: 0
+
+
+=== FIM ===
